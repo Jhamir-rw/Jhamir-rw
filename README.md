@@ -1,6 +1,11 @@
-<h1 align="center"><b>Hola, mi nombre es Jhamir </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUzdmhjYzZ3czkydm5hNWtudWMxajZxNzdzYTN6ZnlmcnhtcDUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHeDr3SAM08koK2GFT/giphy.gif" width="55"></h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Swiss121&color=0F52BA&size=30&center=true&vCenter=true&width=700&height=30&pause=1000000000&lines=Welcome+everyone,+this+is+my+profile">
+  </a>
 </p>
+
+<hr style="border: 2px solid #0F52BA; width: 80%;">
+<h2 ">💫 About Me</h2>
+
+
 
